@@ -13,4 +13,4 @@
 - SQL Server 2012 R2
 
 ### Video
-[Link](https://github.com/andramarkov/hendra_sta/blob/main/stacrud.mp4)
+[https://github.com/andramarkov/hendra_sta/blob/main/stacrud.mp4](https://github.com/andramarkov/hendra_sta/blob/main/stacrud.mp4)
