@@ -1,0 +1,9 @@
+C:\Users\andramarkov\Documents\SharpDevelop Projects\KaryawanCRUD\KaryawanCRUD\bin\Debug\KaryawanCRUD.exe.config
+C:\Users\andramarkov\Documents\SharpDevelop Projects\KaryawanCRUD\KaryawanCRUD\bin\Debug\KaryawanCRUD.exe
+C:\Users\andramarkov\Documents\SharpDevelop Projects\KaryawanCRUD\KaryawanCRUD\bin\Debug\KaryawanCRUD.pdb
+C:\Users\andramarkov\Documents\SharpDevelop Projects\KaryawanCRUD\KaryawanCRUD\obj\Debug\KaryawanCRUD.csprojResolveAssemblyReference.cache
+C:\Users\andramarkov\Documents\SharpDevelop Projects\KaryawanCRUD\KaryawanCRUD\obj\Debug\KaryawanCRUD.MainForm.resources
+C:\Users\andramarkov\Documents\SharpDevelop Projects\KaryawanCRUD\KaryawanCRUD\obj\Debug\KaryawanCRUD.csproj.GenerateResource.Cache
+C:\Users\andramarkov\Documents\SharpDevelop Projects\KaryawanCRUD\KaryawanCRUD\obj\Debug\KaryawanCRUD.exe
+C:\Users\andramarkov\Documents\SharpDevelop Projects\KaryawanCRUD\KaryawanCRUD\obj\Debug\KaryawanCRUD.pdb
+C:\Users\andramarkov\Documents\SharpDevelop Projects\KaryawanCRUD\KaryawanCRUD\obj\Debug\KaryawanCRUD.FrmKaryawanAddEdit.resources
