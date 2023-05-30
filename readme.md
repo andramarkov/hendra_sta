@@ -4,6 +4,10 @@
      alt="STA CRUD"
      style="float: left; margin-right: 10px;" />
 
+<img src="/add_edit.png"
+     alt="STA CRUD"
+     style="float: left; margin-right: 10px;" />
+
 ### Tools:
 - SharpDevelop 4.4
 - SQL Server 2012 R2
