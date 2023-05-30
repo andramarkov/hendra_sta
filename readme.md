@@ -9,4 +9,4 @@
 - SQL Server 2012 R2
 
 ### Video
-<video src="https://github.com/andramarkov/hendra_sta/blob/main/stacrud.mp4" />
+[Link](https://github.com/andramarkov/hendra_sta/blob/main/stacrud.mp4)
